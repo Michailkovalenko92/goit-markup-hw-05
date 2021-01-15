@@ -41,12 +41,12 @@ ul {
 
 .container {
   width: 1200px;
-  margin: 0 auto;
+  margin: -1.5px auto;
   padding: 0 15px;
   /* background-color: aqua; */
 }
 
-.visually-hidden {
+.main .visually-hidden {
   position: absolute;
   clip: rect(0 0 0 0);
   width: 1px;
